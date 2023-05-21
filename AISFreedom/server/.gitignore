@@ -1,0 +1,10 @@
+/node_modules
+/build
+/logs
+/secrets
+/docker
+/db
+/temp
+*.log
+*.logs
+package-lock.json
